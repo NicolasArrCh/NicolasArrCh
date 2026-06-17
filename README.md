@@ -29,7 +29,7 @@ about the world of programming.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasarrch&show_icons=true&locale=en&theme=tokyonight" alt="nicolasarrch" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasarrch&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="nicolasarrch" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasarrch&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nicolasarrch" />
 </p>
 
@@ -108,11 +108,25 @@ about the world of programming.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolasarrch&theme=tokyo-night&hide_border=true&area=true" alt="nicolasarrch activity graph" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nicolasarrch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="nicolasarrch trophies" />
-  </a>
-</p>
+<br/>
+
+### 🚀 Project Journey
+
+A timeline of my public learning projects, grouped by period:
+
+<div align="center">
+
+| 📅 Period | 🛠️ Main Stack | 🎯 Highlighted Projects |
+|:---------:|:--------------|:------------------------|
+| **2026 — Q2** | `TypeScript` · `Python` | [`file-converter`](https://github.com/NicolasArrCh/file-converter) · [`PrototipoA1`](https://github.com/NicolasArrCh/PrototipoA1) · [`proyecto-campus`](https://github.com/NicolasArrCh/proyecto-campus) |
+| **2025 — Q4** | `Java` · `CSS` | [`HappyFeet Veterinaria`](https://github.com/NicolasArrCh/HappyFeet_Veterinaria_ArdilaDavid_ArrublaNicolas) · [`gestionbodegas`](https://github.com/NicolasArrCh/gestionbodegas) · [`Portafolio`](https://github.com/NicolasArrCh/Portafolio) |
+| **2025 — Q3** | `MySQL` · `Java` | [`Examen MySQL`](https://github.com/NicolasArrCh/EXAMEN_MYSQL_NICOLAS_ARRUBLA) · [`Triggers MySQL`](https://github.com/NicolasArrCh/TriggersMYSQL) · [`Ciclo3`](https://github.com/NicolasArrCh/Ciclo3) |
+| **2025 — Q2** | `HTML` · `JavaScript` | [`Calculadora JS`](https://github.com/NicolasArrCh/Calculadora-JAVASCRIPT) · [`Acmebank`](https://github.com/NicolasArrCh/ProyectoAcmebank_JavaScript_PAEZ-CAROLINA--ARRUBLA-NICOLAS) · [`Figma`](https://github.com/NicolasArrCh/Figma) |
+| **2025 — Q1** | `Python` | [`RestauranteMolliPollito`](https://github.com/NicolasArrCh/RestauranteMolliPollito) · [`RedSocial`](https://github.com/NicolasArrCh/RedSocial) · [`Proyecto_python`](https://github.com/NicolasArrCh/Proyecto_python) |
+
+</div>
+
+> 💼 *Additional private repositories with personal experiments and academic work are part of the contribution graph above but not listed here.*
 
 <br/>
 

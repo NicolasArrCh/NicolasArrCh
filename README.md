@@ -102,14 +102,6 @@ about the world of programming.
 
 ---
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolasarrch&theme=tokyo-night&hide_border=true&area=true" alt="nicolasarrch activity graph" />
-</p>
-
-<br/>
-
 ### 🚀 Project Journey
 
 A timeline of my public learning projects, grouped by period:
@@ -126,7 +118,7 @@ A timeline of my public learning projects, grouped by period:
 
 </div>
 
-> 💼 *Additional private repositories with personal experiments and academic work are part of the contribution graph above but not listed here.*
+> 💼 *Additional private repositories with personal experiments and academic work are not listed here, but contribute to my overall activity.*
 
 <br/>
 

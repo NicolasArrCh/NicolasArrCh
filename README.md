@@ -102,11 +102,15 @@ about the world of programming.
 
 ---
 
-### 🏆 Trophies
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolasarrch&theme=tokyo-night&hide_border=true&area=true" alt="nicolasarrch activity graph" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nicolasarrch&theme=tokyonight&no-frame=true&row=1&column=7" alt="nicolasarrch" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nicolasarrch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="nicolasarrch trophies" />
   </a>
 </p>
 
